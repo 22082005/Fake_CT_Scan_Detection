@@ -34,7 +34,6 @@ Data augmentation was performed using 3D transformations such as random flips, a
 
 4)Results
 The model achieved an overall accuracy of 98.93% on the validation dataset.
-
 Metric	Value
 Accuracy	98.93%
 Precision	99.86%
